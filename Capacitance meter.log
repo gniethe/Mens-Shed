@@ -1,0 +1,21 @@
+Circuit: * C:\Users\garth\Documents\Garth\Men's Shed\Capacitance meter.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Oct 19 08:06:48 2020
+Total elapsed time: 0.154 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3091
+traniter = 3052
+tranpoints = 1346
+accept = 1277
+rejected = 69
+matrix size = 14
+fillins = 4
+solver = Normal
+Matrix Compiler1: 868 bytes object code size  0.5/0.3/[0.2]
+Matrix Compiler2: 1.28 KB object code size  0.3/0.5/[0.2]
+
